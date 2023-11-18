@@ -26,9 +26,9 @@
 
 ### :man_technologist: About me:
 
-- 🔭 I’m currently working on my FIRST project, a website for a friend who is a nutritionist.
+- 🔭 I’m currently working at INOWU, a software development company based in Mexico, specializing in web and mobile apps for all kinds of customers.
 
-- 🌱 I’m currently learning Python on Udemy, HTML, CSS and JavaScript in FreeCodeCamp and by doing my first project.
+- 🌱 I’m currently enrolled in a great React Js course by AcadeMind, learning Kotlin for an Android app we are developing at work and open to any challenge!
 
 - 👯 I’m looking to collaborate on whatever I can!!!
 
@@ -38,7 +38,7 @@
 
 - 📫 How to reach me: <a><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge" width="85" alt="Instagram badge"/> </a> | <img src="https://img.shields.io/badge/E--mail-alexistm96%40gmail.com-red" alt="email-badge" width="170"/> | Shoot me a DM or an Email ;)
 
-- :mortar_board: Fun fact: I'm a Mechatronics engineer and I have a Master's degree related to manufacturing and material's science... totally unrelated to programming, but I want to give developing a try at least :) 
+- :mortar_board: Fun fact: I'm a Mechatronics engineer and I have a Master's degree related to manufacturing and material's science... totally unrelated to programming, but I'm loving it here in the software development world!
 
 - :runner: Hobbies: :muscle: I enjoy lifting weights a lot, a bit of calisthenics, :evergreen_tree: talking walks on nature, :dog2: walking my dogs, :headphones: and listening to podcasts.
 
@@ -47,7 +47,7 @@
 ### 💻 Languages and tools:
 
 <div id="languages-tools">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40">&nbsp
+  <i class="devicon-androidstudio-plain-wordmark"></i>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40">&nbsp
