@@ -28,11 +28,11 @@
 
 - 🔭 I’m currently working at INOWU, a software development company based in Mexico, specializing in web and mobile apps for all kinds of customers.
 
-- 🌱 I’m currently enrolled in a great React Js course by AcadeMind, learning Kotlin for an Android app we are developing at work and open to any challenge!
+- 🌱 I’m currently enrolled in two projects, a flutter project for a US based company, and a ReactJs project, from Mexico!
 
 - 👯 I’m looking to collaborate on whatever I can!!!
 
-- 🤔 I’m looking for help with learning how to code properly, using the best practices and landing my first ever developer job.
+- 🤔 I’m looking to develop my developer skills, learn everyday and share knowledge with others.
 
 - 💬 Ask me about me! 
 
@@ -40,7 +40,7 @@
 
 - :mortar_board: Fun fact: I'm a Mechatronics engineer and I have a Master's degree related to manufacturing and material's science... totally unrelated to programming, but I'm loving it here in the software development world!
 
-- :runner: Hobbies: :muscle: I enjoy lifting weights a lot, a bit of calisthenics, :evergreen_tree: talking walks on nature, :dog2: walking my dogs, :headphones: and listening to podcasts.
+- :runner: Hobbies: :muscle: I enjoy lifting weights a lot, :evergreen_tree: talking walks on nature, :dog2: walking my dog, :headphones: and listening to podcasts.
 
 ---
 
@@ -52,11 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40">&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>&nbsp
 </div>
 
 ---
